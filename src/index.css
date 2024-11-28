@@ -1,11 +1,3 @@
-header {
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    background-color: lightgrey;
-}
-
 .dropdown {
-    border: red 10px solid;
+    overflow: hidden;
 }
